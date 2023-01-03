@@ -1,10 +1,11 @@
 torch>=1.7.0
 torchvision>=0.9.1
 omegaconf>=2.0.6
+protobuf<3.20,>=3.9.2
 onnx>=1.7.0
 pandas>=1.2.2
 pyyaml>=5.3.1
-tensorboard
+tensorboard<2.11,>=2.10
 future
 scipy>=1.6.0
 sklearn
